@@ -4,8 +4,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
 #le tue credenziali le trovi nella dashboard di prima
-SPOTIFY_CLIENT_ID = "51732c4254124416b138a4114f3399f9"
-SPOTIFY_CLIENT_SECRET = "71185d62c08749e6ab66a9e42507b90a"
+SPOTIFY_CLIENT_ID = "443883fd510c43e29bb9ee1e295cddd5"
+SPOTIFY_CLIENT_SECRET = "f6de4aa660244f8d8689aea1b94344de"
 SPOTIFY_REDIRECT_URI = "https://5000-kimpembie2-spotibie-ofw7qd187r1.ws-eu117.gitpod.io/callback"
 
 app = Flask(__name__)
